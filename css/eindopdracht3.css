@@ -1,0 +1,72 @@
+#invullen{
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 550px;
+  margin-top: 0px;
+}
+#naam{
+  width: 300px;
+}
+#blok1{
+  position: absolute;
+  border: 3px solid;
+  width: 350px;
+  height: 550px;
+  display: inline-block;
+  left: 200px;
+  top:100px;
+}
+#blok2{
+  position: absolute;
+  border: 3px solid;
+  width: 350px;
+  height: 550px;
+  display: inline-block;
+  left: 1200px;
+  top: 100px;
+}
+#buttons{
+  position: absolute;
+  left: 800px;
+  top: 300px;
+}
+#rechts{
+  top: 0;
+  background-color: #ff0000;
+  padding: 15px 50px;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin:4px 2px;
+  cursor: pointer;
+  font-size: 24px;
+}
+#links{
+  top:0;
+  background-color: #ff0000;
+  padding: 15px 50px;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin:4px 2px;
+  cursor: pointer;
+  font-size: 24px;
+}
+#toevoegen{
+  position: absolute;
+  top:0px;
+  left: 1300px;
+  background-color: #ff0000;
+  padding: 15px 50px;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin:4px 2px;
+  cursor: pointer;
+}
+body{
+  background-color: #8c8273;
+}
